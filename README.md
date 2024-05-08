@@ -1,15 +1,15 @@
-![img.png](img.png)
+<img src = "img.png" width="500"  />
 
-![img_1.png](img_1.png)
+<img src = "img_1.png" width="500"  />
 
-![img_3.png](img_3.png)
+<img src = "img_3.png" width="500"  />
 
-![img_4.png](img_4.png)
+<img src = "img_4.png" width="500"  />
 
-![img_5.png](img_5.png)
+<img src = "img_5.png" width="500"  />
 
-![img_8.png](img_8.png)
+<img src = "img_8.png" width="500"  />
 
-![img_6.png](img_6.png)
+<img src = "img_6.png" width="500"  />
 
-![img_7.png](img_7.png)
+<img src = "img_7.png" width="500"  />
